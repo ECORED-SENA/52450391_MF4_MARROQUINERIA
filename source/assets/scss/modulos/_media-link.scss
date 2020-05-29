@@ -1,0 +1,36 @@
+.media-link {
+    
+    width: 100%;
+    max-width: 252px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap !important;
+    justify-content: start;
+    align-items: center;
+    padding: 1rem;
+    background-color: #745F57;  
+    border-radius: 7px;  
+    transition: background-color 0.25s ease-out;
+
+    &-icon {
+        flex: 0 0 40px;
+        height: 45px;
+        overflow: hidden;
+        margin-right: 1rem;       
+    }
+
+    &-title {
+        p {
+            color: #fff;
+            margin: 0 !important;
+            text-align: center;
+            width: 150px;
+        }      
+    }   
+    
+    &:hover {
+        background-color:#E3DAC6; 
+    }
+
+}  
+

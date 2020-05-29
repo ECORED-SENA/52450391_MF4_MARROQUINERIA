@@ -1,0 +1,59 @@
+.bg-color-naranja {
+    background-color: orange;
+}
+
+
+// Estilos tema 2
+
+.custom-item-img {
+    flex: 0 0 120px;
+    overflow: hidden;
+    margin-right: 2rem;
+}
+
+.custom-card-m{
+    flex: 0 0 90px;
+    overflow: hidden;
+    color: #fff;
+    font-size: 20px;
+}
+.custom-car-m-link{
+    padding: 2rem;
+}
+.custom-item-img-m{
+    flex: 0 0 120px;
+    overflow: hidden;
+    margin-right: -1rem; 
+}
+
+.text-center-m{
+    text-align: center;
+    color: #977C72;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.header-ecored-m {
+
+    margin: 3rem 0;
+    position: relative;
+
+    h1 {
+        font-size: 1.1*$h1-font-size;
+
+        &::before {
+            content: " ";
+            position: absolute;
+            left: 0;
+            bottom:-12px;
+            width: 50px;
+            height: 4px;
+            background-color: $base-color-highlight;
+        }
+    }
+}
+
+.card-m{
+    background-color: #F3F7FA;
+    margin-top: 3rem;
+}
