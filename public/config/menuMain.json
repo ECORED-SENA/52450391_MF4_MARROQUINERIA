@@ -1,0 +1,70 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "../"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "Introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html"
+  },  
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "Proceso_productivo",
+    "title": "1. Proceso productivo artículos de marroquinería",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-2",
+        "title": "1.1 Confección de bolsillos",
+        "anchor": "bolsillos"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-2",
+        "title": "1.2 Confección de bolsos",
+        "anchor": "bolsos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-2",
+        "title": "1.3 Confección de billeteras",
+        "anchor": "billeteras"
+      }      
+    ]   
+   },
+
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "Terminacion_y_empaque",
+    "title": "2. Terminación y empaque",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html"
+  },  
+  { 
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "Principios_higiene_y_seguridad_industrial",
+    "title": "3. Principios básicos de higiene y seguridad industrial",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html"
+  },  
+  { 
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "Informacion_Grafica_y_muestra_fisica",
+    "title": "4. Información gráfica y muestra física",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html"
+  }
+     
+]
