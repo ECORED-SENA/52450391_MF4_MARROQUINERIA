@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Grupo_3592" data-name="Grupo 3592" transform="translate(-108.001 -1443)">
+    <g id="Grupo_3465" data-name="Grupo 3465" transform="translate(-471.02 684.979)">
+      <g id="Elipse_542" data-name="Elipse 542" transform="translate(579.021 758.021)" fill="#f3f7fa" stroke="#cea774" stroke-width="1">
+        <circle cx="22" cy="22" r="22" stroke="none"/>
+        <circle cx="22" cy="22" r="21.5" fill="none"/>
+      </g>
+      <circle id="Elipse_543" data-name="Elipse 543" cx="18" cy="18" r="18" transform="translate(583.021 762.021)" fill="#745f57"/>
+    </g>
+    <text id="F" transform="translate(130 1471)" fill="#fff" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-6.39" y="0">F</tspan></text>
+  </g>
+</svg>
