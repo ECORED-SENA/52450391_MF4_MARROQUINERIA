@@ -7,7 +7,7 @@
 
     .nav-tabs {
         border-bottom: 1px solid $brand-color-light;
-        background: $brand-color-light;
+        background: $brand-color-dark;
     }
 
     .nav-tabs .nav-item {
@@ -35,11 +35,11 @@
         border-left: 2px solid $brand-color-dark;
         border-top: 2px solid $brand-color-dark;
         border-right: 2px solid $brand-color-dark;
-        color: $brand-color-dark;
+        color: #977C72;
     }
 
     .nav-tabs .nav-link:not(.active) {
-        color: darken($brand-color-dark,10%);
+        color: darken($brand-color-dark,30%);
         margin: 0px;
     }
 }
